@@ -1,0 +1,7 @@
+Account Help
+
+If a customer forgets their password, they can reset it from the login page using
+the "Forgot Password" link, which sends a reset email valid for 24 hours. Accounts
+are locked for 15 minutes after 5 failed login attempts. To close an account
+permanently, the customer must email support and confirm identity with their
+registered email address; account closure is irreversible after 7 days.
